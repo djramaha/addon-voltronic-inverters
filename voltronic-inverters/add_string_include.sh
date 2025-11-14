@@ -12,7 +12,7 @@ REPO_DIR=/opt/repo
 
 # Шлях до файлу inverter.h
 # Path to inverter.h file
-INVERTER_H="$REPO_DIR/sources/inverter.h"
+INVERTER_H="$REPO_DIR/sources/inverter-cli/inverter.h"
 
 # Перевіряємо чи вже є #include <string>
 # Check if #include <string> is already present
